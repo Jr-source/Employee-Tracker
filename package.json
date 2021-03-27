@@ -1,0 +1,21 @@
+{
+  "name": "employeetracker",
+  "version": "1.0.0",
+  "description": "app to track employee",
+  "main": "index.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.0.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ttps://github.com/Jr-source/Employee-Tracker.git"
+  },
+  "author": "Jacob",
+  "license": "ISC"
+}
